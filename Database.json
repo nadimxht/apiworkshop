@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "user 1",
+      "email": "user@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 1693665523297,
+      "username": "nadim",
+      "email": "nadim@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 1693665852695,
+      "username": "salim",
+      "email": "salim@gmail.com",
+      "password": "123"
+    }
+  ],
+  "todos": [
+    {
+      "id": 0,
+      "userId": 0,
+      "content": "first todo"
+    },
+    {
+      "id": 1,
+      "userId": 1693665523297,
+      "content": "second todo"
+    },
+    {
+      "id": 2,
+      "userId": 0,
+      "content": "second todo for user 1"
+    },
+    {
+      "id": 1693668272715,
+      "userId": 0,
+      "content": "test"
+    },
+    {
+      "id": 1693668382754,
+      "userId": 0,
+      "content": "SPORT"
+    }
+  ]
+}
